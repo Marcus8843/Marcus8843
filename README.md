@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me 
-    -Discord: #Marcus8843
-    -Twitter: @Marcus42790996
-    -Whatsapp: +55 (61) 99106-6341
+    -Discord: 
+    -Whatsapp: +55 (62) 98183-9672
+    -Instagram: mvma_v
 
 <!---
 Marcus8843/Marcus8843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
