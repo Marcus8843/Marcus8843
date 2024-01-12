@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcus8843 or Marcus
 - 👀 I’m interested in Programming and Gamming
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
+- 🌱 I’m currently Graduating in Software Engineering
+- 💞️ I’m looking to collaborate on Programming and Learning
 - 📫 How to reach me 
     -Discord: 
     -Whatsapp: +55 (62) 98183-9672
